@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Machine Learning/Deep Learning and Python**
 
+- ⚡ Fun fact **I use MacOS, DAT Linux, and sometimes Windows**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
