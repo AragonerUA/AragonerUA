@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working as **Data Analyst**
 
-- 🌱 I’m currently learning **LLMs and CV**
+- 🌱 I’m currently learning **LLMs, NLP**
 
 - 💬 Ask me about **Machine Learning/Deep Learning and Python**
 
-- ⚡ Fun fact **I use MacOS, DAT Linux, and sometimes Windows**
+- ⚡ OS **MacOS, DAT Linux, Windows**
 
 [![AragonerUA's GitHub | Languages Over Time](https://stats.quine.sh/AragonerUA/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AragonerUA)
 
