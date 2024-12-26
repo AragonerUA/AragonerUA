@@ -2,7 +2,7 @@
 <h3 align="center">A bachelor CS student in special program from @JetBrains in Neapolis University, Paphos, Cyprus</h3>
 
 - 🔭 I’m currently working as **JetBrains AI Engineer**
-- 🔭 I'm currently doing research in NLP and LLM.
+- 🔭 I'm currently doing research in **NLP** and **LLM**.
 - 🌱 I’m currently learning **LLM, NLP**
 
 - 💬 Ask me about **Machine Learning/Deep Learning and Python**
