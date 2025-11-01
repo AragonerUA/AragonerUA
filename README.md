@@ -9,20 +9,21 @@
 ```yaml
 name: Iaroslav Chelombitko
 located_in: Paphos, Cyprus
-current_job: AI Engineer
+current_job: Machine Learning Engineer | Researcher
 education:
   [
     "Bachelor's in Applied Computer Science",
     "Nebius Academy's GenAI Alumni",
     "JetBrains Academy Alumni",
   ]
-company: JetBrains
+company: DataSpike | Intelligent Systems Laboratory
 
 fields_of_interests:
   [
     "Research",
     "Data Science",
     "NLP",
+    "CV",
     "Machine Learning",
     "AI Engineering",
     "Computational Linguistics",
@@ -30,14 +31,14 @@ fields_of_interests:
     "DevOps",
   ]
 technical_background:
-  [
-    "ML Engineer",
+  [ 
+    "ML Engineer | Researcher",
     "Research Assistant",
-    "Intern - AI Engineer",
+    "Intern - AI Engineer, JetBrains",
     "Data Engineer",
   ]
   
-extra_curriculum: ACL IWCLUL SIGUR Program Committee member
+extra_curriculum: ACL IWCLUL SIGUR Scientific Committee member
 ```
   
 ---  
