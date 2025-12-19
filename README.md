@@ -38,7 +38,7 @@ technical_background:
     "Data Engineer",
   ]
   
-extra_curriculum: ACL IWCLUL SIGUR Scientific Committee member
+extra_curriculum: ACL IWCLUL SIGUR Board member & Scientific Committee member
 ```
   
 ---  
