@@ -12,7 +12,7 @@ located_in: Paphos, Cyprus
 current_job: Machine Learning Engineer | Researcher
 education:
   [
-    "Bachelor's in Applied Computer Science",
+    "NUPxJetBrains Bachelor's in Applied Computer Science",
     "Nebius Academy's GenAI Alumni",
     "JetBrains Academy Alumni",
   ]
