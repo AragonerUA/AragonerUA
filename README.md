@@ -16,7 +16,7 @@ education:
     "Nebius Academy's GenAI Alumni",
     "JetBrains Academy Alumni",
   ]
-company: DataSpike | Intelligent Systems Laboratory
+company: 
 
 fields_of_interests:
   [
